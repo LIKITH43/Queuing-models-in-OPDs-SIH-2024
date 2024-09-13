@@ -1,7 +1,7 @@
 # sih-hospital
 
 # SIH STATEMENT
-![Screenshot 2024-08-15 235259](https://github.com/user-attachments/assets/f1f8b416-fe17-49f9-ac4b-33731f7eb0b0)
+![image](https://github.com/user-attachments/assets/110750d2-d4f5-4cc9-a019-e803fe6eb153)
 
 # OUR WORKFLOW
 ![Untitled-2024-08-15-2355](https://github.com/user-attachments/assets/038616ab-b263-419c-9ce2-d6dcd03690ac)
@@ -11,13 +11,11 @@
 
 # SIH 2024 Smart Care Ninjas PPT
 
-![SIH 2024 Smart Care Ninjas PPT-1](https://github.com/user-attachments/assets/da0c281a-62a6-4b43-b0c8-7dd79dddb2ba)
-![SIH 2024 Smart Care Ninjas PPT-2](https://github.com/user-attachments/assets/6d94ed24-28bc-4665-ba47-5340d8c39104)
-![SIH 2024 Smart Care Ninjas PPT-3](https://github.com/user-attachments/assets/e207f909-a9b7-4266-b327-5b66e3c9b38e)
-![SIH 2024 Smart Care Ninjas PPT-4](https://github.com/user-attachments/assets/945a74a6-ba45-4b9e-afbe-5b51adf3ec68)
-![SIH 2024 Smart Care Ninjas PPT-5](https://github.com/user-attachments/assets/26f03832-8a7b-4ac2-bbca-fb9af0e3a53e)
-![SIH 2024 Smart Care Ninjas PPT-6](https://github.com/user-attachments/assets/ddf2db52-914d-4b09-b610-ded3f50cc786)
-
+![image](https://github.com/user-attachments/assets/73f1a136-7b13-4f12-b935-394983f63f01)
+![image](https://github.com/user-attachments/assets/46942370-98b8-455a-9bd2-85ba9b84ed70)
+![image](https://github.com/user-attachments/assets/940a471c-d500-4bae-9355-76baa3c04546)
+![image](https://github.com/user-attachments/assets/426fb988-b789-47fe-a66c-3ed89642fc32)
+![image](https://github.com/user-attachments/assets/1fb02c37-1b93-4447-8c21-e801c5146299)
 
 
 ## Required Webpages:
