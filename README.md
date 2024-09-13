@@ -1,4 +1,4 @@
-# sih-hospital
+# Sih-hospital
 
 # SIH STATEMENT
 ![image](https://github.com/user-attachments/assets/110750d2-d4f5-4cc9-a019-e803fe6eb153)
